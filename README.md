@@ -1,4 +1,4 @@
-# Smart Route Planner
+# RouteMate
 
 A full-stack web application for planning efficient travel routes using TSP algorithms.
 
